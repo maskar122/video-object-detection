@@ -14,6 +14,12 @@ It can detect multiple objects in images, videos, or even live camera streams.
 - Bounding boxes 🟥 and labels are drawn on detected objects.
 
 ---
+# 🖼️ Demo
+![Here are some results from the YOLOv5 model](https://github.com/maskar122/video-object-detection/blob/8bdd0eeffe3ad3cfec18a9ce2836f5302e8abe70/images/output2.png)
+![Here are some results from the YOLOv5 model](https://github.com/maskar122/video-object-detection/blob/8bdd0eeffe3ad3cfec18a9ce2836f5302e8abe70/images/output9.png)
+![Here are some results from the YOLOv5 model](https://github.com/maskar122/video-object-detection/blob/8bdd0eeffe3ad3cfec18a9ce2836f5302e8abe70/images/output5.png)
+
+
 
 ## 🛠️ Installation
 Clone this repo and install the required dependencies:
